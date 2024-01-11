@@ -1,0 +1,22 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer-content{
+    align-items: center;
+    background-color:rgb(19, 214, 117);
+    padding: 10px;
+    justify-content: space-between;
+    color: white;
+}
+.footer-links{
+    margin-left: 40%;
+}
+.footerlogo{
+    margin-top: 30px;
+}
+
+    

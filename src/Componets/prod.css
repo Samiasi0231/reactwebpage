@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    display: flex;
+}
+.para{
+    margin-top:60px;
+}
+.card {margin: 50px 40px;
+    width: 400px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px;
+    background-color: aqua;
+}
+.card-image{
+    width: 100px;
+    height: 200px;
+}
+.card-content {
+padding: 20px;
+}
+.cared title{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.card-button{
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: blueviolet;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+.card-button:hover{
+    background-color:white;
+    color: purple;
+}
